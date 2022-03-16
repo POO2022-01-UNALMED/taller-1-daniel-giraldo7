@@ -1,3 +1,7 @@
+no se veia reflejada dentro del repositorio debido a que estaba vacia
+
 Daniel Alejandro Giraldo Giraldo
 21
 ganar la materia
+
+debido a que este puede generar perdidas de informacion y conflictos

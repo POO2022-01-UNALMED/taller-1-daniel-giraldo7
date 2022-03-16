@@ -1,0 +1,1 @@
+la carpeta archivo no se visualizaba en el repositorio
